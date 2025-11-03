@@ -29,5 +29,3 @@ Play the game here: [https://yourusername.github.io/word-explorer](https://youru
 ## Development
 This is a pure frontend application - no backend required! All game data is stored locally in your browser.
 
-## License
-MIT License - feel free to use and modify!
